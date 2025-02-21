@@ -1,0 +1,1 @@
+Created a Linechart which represent the Happiness Score of People across different countries over the years Use different Lines to represent different countries The Happiness score is on X axis and Year is on Y axis
