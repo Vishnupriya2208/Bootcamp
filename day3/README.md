@@ -194,7 +194,7 @@ This dataset includes **Mobile Phone Users** for different years. The data refle
 ---
 
 
-** Bonus task : Validate Data of Cell Phones per 100 People Using Python**  
+ **Bonus task : Validate Data of Cell Phones per 100 People**
 
  📌 **Overview**  
 This task focuses on **validating and analyzing the number of cell phones per 100 people** using Python. It helps ensure data accuracy, detect anomalies, and visualize trends in **mobile penetration rates** over time.  
