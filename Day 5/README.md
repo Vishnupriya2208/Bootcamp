@@ -1,7 +1,7 @@
 **Task 1: Commentary Word Cloud**  
 
 📌 **Overview**  
-This project generates a **Word Cloud** from cricket commentary data, visually representing the most frequently used words. Larger words indicate higher frequency. **Stop words** (e.g., "the," "is," "a") are removed to highlight meaningful words like player names, actions, and game events.  
+This task generates a **Word Cloud** from cricket commentary data, visually representing the most frequently used words. Larger words indicate higher frequency. **Stop words** (e.g., "the," "is," "a") are removed to highlight meaningful words like player names, actions, and game events.  
 
 ---
 
@@ -56,7 +56,7 @@ The dataset consists of **cricket commentary** text extracted from match broadca
   **Task 2: Commentary to Table**  
 
  📌 **Overview**  
-This project extracts structured data from **cricket commentary** using **Regular Expressions (RegEx)**. The goal is to convert unstructured text into a **tabular format** with key match details such as **bowler name, batter name, ball type, shot type, ball speed, and runs scored**.  
+This task extracts structured data from **cricket commentary** using **Regular Expressions (RegEx)**. The goal is to convert unstructured text into a **tabular format** with key match details such as **bowler name, batter name, ball type, shot type, ball speed, and runs scored**.  
 
 ---
 
@@ -123,7 +123,7 @@ The dataset consists of **cricket match commentary**, which is processed to extr
   **Task 3: Text Pre-processing & Feature Extraction using scikit-learn**  
 
 📌 **Overview**  
-This project demonstrates **text pre-processing methods** using **scikit-learn**, focusing on two feature extraction techniques:  
+This task demonstrates **text pre-processing methods** using **scikit-learn**, focusing on two feature extraction techniques:  
 1️⃣ **CountVectorizer()** – Converts text into a matrix of token counts.  
 2️⃣ **TfidfVectorizer()** – Converts text into a matrix of TF-IDF (Term Frequency-Inverse Document Frequency) scores.  
 
@@ -184,7 +184,7 @@ The dataset consists of **text samples** that are processed using **CountVectori
   **Task 4: Implementing TF-IDF from Scratch on Cricket Commentary**  
 
  📌 **Overview**  
-This project implements **TF-IDF (Term Frequency-Inverse Document Frequency) from scratch** using pure Python, **without using scikit-learn**. The goal is to extract important words from a **cricket commentary dataset** and convert them into numerical features for further analysis.  
+This task implements **TF-IDF (Term Frequency-Inverse Document Frequency) from scratch** using pure Python, **without using scikit-learn**. The goal is to extract important words from a **cricket commentary dataset** and convert them into numerical features for further analysis.  
 
 TF-IDF is a key technique in **Natural Language Processing (NLP)**, used to evaluate how important a word is in a document relative to a collection of documents (corpus).  
 
