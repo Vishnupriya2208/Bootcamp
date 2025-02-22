@@ -1,0 +1,1 @@
+Created a commentry table by extracting the columns and row based on the commentry Without using these column in the commentry table Commentary,Bowler,Batter,Ball Type,Shot Type,Speed (km/h),Runs Scored
