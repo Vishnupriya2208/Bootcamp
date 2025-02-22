@@ -135,7 +135,7 @@ This dataset includes **the number of cell phone users (or penetration rate) by 
  **Task 4: Line Chart - Happiness Score Over the Years**  
 
 📌 **Overview**  
-This project visualizes the **Happiness Score Over the Years** using a **Line Chart**. The chart helps analyze trends in **happiness levels** across different years, providing insights into factors affecting global well-being.  
+This task visualizes the **Happiness Score Over the Years** using a **Line Chart**. The chart helps analyze trends in **happiness levels** across different years, providing insights into factors affecting global well-being.  
 
 ---
  📂 **Files in this Folder**  
@@ -184,7 +184,7 @@ This dataset includes **Happiness Scores** for different years, which are typica
  **Task 5: Replicating Hans Rosling’s Bubble Chart**  
 
  📌 **Overview**  
-This project **replicates Hans Rosling’s famous Bubble Chart**, which visualizes the relationship between **Income, Life Expectancy, and Population** over time. The chart helps analyze global development trends using **dynamic, multi-dimensional visualization**.  
+This task **replicates Hans Rosling’s famous Bubble Chart**, which visualizes the relationship between **Income, Life Expectancy, and Population** over time. The chart helps analyze global development trends using **dynamic, multi-dimensional visualization**.  
 
 ---
 
