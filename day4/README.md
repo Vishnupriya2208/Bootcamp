@@ -1,7 +1,7 @@
 **Task 1: Understanding & Exploring Data Bias**  
 
 📌 **Overview**  
-This project focuses on **understanding and detecting biases in datasets**, which can impact decision-making in machine learning, analytics, and AI applications. We explore different types of **biases in data**, their sources, and methods to **identify, visualize, and mitigate them**.  
+This task focuses on **understanding and detecting biases in datasets**, which can impact decision-making in machine learning, analytics, and AI applications. We explore different types of **biases in data**, their sources, and methods to **identify, visualize, and mitigate them**.  
 
 ---
 
@@ -52,7 +52,7 @@ The dataset contains multiple features where bias can exist, including:
 **Task 2: Understanding & Exploring Data Bias**  
 
 📌 **Overview**  
-This project aims to **understand, explore, and detect biases in datasets**, which can significantly impact decision-making in **machine learning, analytics, and AI applications**. We analyze different types of biases, their sources, and apply methods to **identify, visualize, and mitigate them** for fairer outcomes.  
+This task aims to **understand, explore, and detect biases in datasets**, which can significantly impact decision-making in **machine learning, analytics, and AI applications**. We analyze different types of biases, their sources, and apply methods to **identify, visualize, and mitigate them** for fairer outcomes.  
 
 ---
 
@@ -106,7 +106,7 @@ The dataset includes multiple features where bias may exist, including:
  **Task 3: Customer Segmentation**  
 
 📌 **Overview**  
-This project focuses on **Customer Segmentation**, where we group customers based on **demographics, geography, and usage behavior**. By analyzing customer data, businesses can **target specific groups, improve marketing strategies, and enhance customer experiences**.  
+This task focuses on **Customer Segmentation**, where we group customers based on **demographics, geography, and usage behavior**. By analyzing customer data, businesses can **target specific groups, improve marketing strategies, and enhance customer experiences**.  
 
 ---
 
@@ -159,7 +159,7 @@ The dataset includes multiple features that help in customer segmentation:
  **Task 4: Identify Customer Churn Indicators**  
 
  📌 **Overview**  
-This project focuses on **identifying key indicators of customer churn**, helping businesses **predict and reduce customer attrition**. By analyzing customer behavior, demographics, and usage patterns, we can determine the factors that lead to churn and improve retention strategies.  
+This task focuses on **identifying key indicators of customer churn**, helping businesses **predict and reduce customer attrition**. By analyzing customer behavior, demographics, and usage patterns, we can determine the factors that lead to churn and improve retention strategies.  
 
 ---
 
@@ -214,7 +214,7 @@ The dataset contains customer details and behavioral data that may indicate chur
  **Task 5: Suggest Retention Ideas**  
 
 📌 **Overview**  
-This project focuses on **analyzing customer data to suggest retention strategies**, helping businesses **reduce churn and improve customer satisfaction**. By identifying key factors that lead to customer attrition, we can recommend personalized retention strategies based on usage behavior, support interactions, and customer feedback.  
+This task focuses on **analyzing customer data to suggest retention strategies**, helping businesses **reduce churn and improve customer satisfaction**. By identifying key factors that lead to customer attrition, we can recommend personalized retention strategies based on usage behavior, support interactions, and customer feedback.  
 
 ---
 
