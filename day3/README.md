@@ -99,7 +99,7 @@ This dataset includes **Average Income** values for different years. The data ca
  **Task 3: Happiness Score Chart Using Python**  
 
  📌 **Overview**  
-This project visualizes the **Happiness Score Over the Years** using a **Line Chart** in Python. The chart helps analyze **happiness trends** across different years and understand the factors influencing well-being globally.  
+This task visualizes the **Happiness Score Over the Years** using a **Line Chart** in Python. The chart helps analyze **happiness trends** across different years and understand the factors influencing well-being globally.  
 
 ---
 
@@ -149,7 +149,7 @@ This dataset includes **Happiness Scores** for different years. The data is base
  **Task 4: Rise of Cell Phones Chart Using Python**  
 
 📌 **Overview**  
-This project visualizes the **Rise of Cell Phones Over the Years** using a **Line Chart** in Python. The chart helps analyze the **growth in mobile phone adoption** over time, reflecting technological advancements and increasing accessibility worldwide.  
+This task visualizes the **Rise of Cell Phones Over the Years** using a **Line Chart** in Python. The chart helps analyze the **growth in mobile phone adoption** over time, reflecting technological advancements and increasing accessibility worldwide.  
 
 ---
  📂 **Files in this Folder**  
@@ -257,7 +257,7 @@ This dataset includes **Cell Phones per 100 People** for different years. The da
 **Task 5 : Replicating Hans Rosling’s Bubble Chart Using Python**  
 
  📌 **Overview**  
-This project aims to **replicate Hans Rosling’s iconic Bubble Chart** using Python. The visualization showcases **global development trends**, highlighting relationships between **GDP per capita, life expectancy, and population size** across countries.  
+This task aims to **replicate Hans Rosling’s iconic Bubble Chart** using Python. The visualization showcases **global development trends**, highlighting relationships between **GDP per capita, life expectancy, and population size** across countries.  
 
 ---
 
@@ -308,7 +308,7 @@ The dataset includes data points for multiple countries, covering:
  **Bonus task : Animated Hans Rosling’s Bubble Chart Dashboard Using Python**  
 
 📌 **Overview**  
-This project **replicates and animates Hans Rosling’s Bubble Chart** using Python, allowing users to explore **global development trends dynamically**. The dashboard visualizes the relationship between **GDP per capita, life expectancy, and population size** over time with **animated transitions**.  
+This task **replicates and animates Hans Rosling’s Bubble Chart** using Python, allowing users to explore **global development trends dynamically**. The dashboard visualizes the relationship between **GDP per capita, life expectancy, and population size** over time with **animated transitions**.  
 
 ---
 
