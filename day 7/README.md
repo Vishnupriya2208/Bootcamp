@@ -217,4 +217,61 @@ The **`cell_phones_data`** table contains:
 4️⃣ **Save and Export Results**  
    - Store the **results in a new table** or export as CSV.  
 ---
+🍽️ Task 5: Find Nearby Restaurants  
+
+🔍 Overview  
+This task involves **finding and ranking nearby restaurants** using SQL **window functions** (`RANK()` and `DENSE_RANK()`) based on distance.  
+
+We will:  
+1. **Load restaurant data** from Kaggle into an SQL database.  
+2. **Choose a reference location** (e.g., home, school, or any place).  
+3. **Compute distances** from the reference point to each restaurant.  
+4. **Rank restaurants** using `RANK()` and `DENSE_RANK()` based on the **rounded-off distance (in KM)**.  
+5. **Compare results** from both ranking methods.  
+
+ 📂 Files in this Folder  
+
+| File Name                  | Description |
+|---------------------------|-------------|
+| `restaurant_data.csv`      | Dataset containing restaurant locations and details |
+| `load_data.sql`            | SQL script to load data into the database |
+| `find_nearby_restaurants.sql` | SQL script to calculate and rank nearby restaurants |
+| `README.md`                | Task description and details |
+
+ 📊 Data Description  
+
+The **restaurant_data** table contains:  
+- **Restaurant Name**: Name of the restaurant  
+- **Latitude**: Restaurant's latitude  
+- **Longitude**: Restaurant's longitude  
+- **Cuisine Type**: Type of food served  
+
+ 🛠️ Steps to Perform  
+
+1️⃣ **Load Data into SQL Workbench**  
+   - Download the **restaurant dataset** from Kaggle.  
+   - Import `restaurant_data.csv` into **MySQL Workbench** using:  
+
+   ```sql
+   LOAD DATA INFILE 'restaurant_data.csv'
+   INTO TABLE restaurants
+   FIELDS TERMINATED BY ',' 
+   IGNORE 1 ROWS;
+   ```
+
+2️⃣ **Choose a Reference Location**  
+   
+3️⃣ **Calculate Distance (Haversine Formula)**  
+  
+4️⃣ **Rank Restaurants by Distance**  
+  
+5️⃣ **Compare RANK() vs DENSE_RANK()**  
+   - **`RANK()`**: Skips ranks if two restaurants have the same distance.  
+   - **`DENSE_RANK()`**: Assigns continuous ranking without skipping.  
+
+6️⃣ **Save and Export Results**  
+   - Store the **ranked restaurant list in a new table** or export it as CSV.  
+
+---
+
 
