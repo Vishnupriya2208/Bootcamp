@@ -1,4 +1,4 @@
----
+
 
  📊 Task 1: Life Expectancy Chart  
 
