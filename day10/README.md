@@ -104,4 +104,5 @@ Dashboards are created using **Tableau** (preferred for web publishing) and **Po
 ---
 
 Conclusion
+
 This project provides a **comprehensive cricket analytics framework**, allowing users to explore **player statistics, team trends, and auction insights** through **interactive dashboards**. The use of **advanced analytics** like **player chemistry and AI-based scores** makes it a **unique and insightful project** for cricket enthusiasts and data analysts.
