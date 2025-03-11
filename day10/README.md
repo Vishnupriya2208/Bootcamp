@@ -1,6 +1,7 @@
 **Project: Cricket Data Analysis Capstone Project**
 
  Overview
+ 
 This capstone project focuses on cricket data extraction, transformation, and analysis to build interactive dashboards for player and team performance insights. The project utilizes data from **ESPN Cricinfo (via web scraping)** or **Kaggle datasets** to generate meaningful insights, including **player statistics, auction prices, chemistry scores, and historical trends.** The final output includes **visual dashboards in Tableau or Power BI** for interactive exploration.
 
  Files in This Repository
