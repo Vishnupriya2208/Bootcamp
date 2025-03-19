@@ -1,6 +1,6 @@
 **Task 1: Commentary Word Cloud**  
 
-📌 **Overview**  
+ **Overview**  
 This task generates a **Word Cloud** from cricket commentary data, visually representing the most frequently used words. Larger words indicate higher frequency. **Stop words** (e.g., "the," "is," "a") are removed to highlight meaningful words like player names, actions, and game events.  
 
 ---
